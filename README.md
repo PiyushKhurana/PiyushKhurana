@@ -1,6 +1,6 @@
-### Hey there 👋
+### Hey there <img src='gifs/hi.gif' height='40px' width='40px' alt='👋'/>
 ### I'm Piyush 🤓
-### Trying to understand, how a Computer Works❗
+### Trying to understand, how a Computer Works <img src='gifs/q.gif' height='30px' width='30px' alt='❗'/>
 
 
 <!--

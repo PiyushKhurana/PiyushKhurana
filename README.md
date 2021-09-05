@@ -25,17 +25,20 @@
 
 ### Languages and Tools
 <p align="left">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" alt="Linux" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/powershell.svg" alt="Shell" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="php" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg" alt="wordpress" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudio.svg" alt="vscode" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="mysql" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="git" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postman.svg" alt="postman" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ruby.svg" alt="Ruby" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="C" height="30" width="40" />
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/haskell.svg" alt="Haskell" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="Node" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="MongoDB" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rubyonrails.svg" alt="Ruby on Rails" height="30" width="40" />
 </p>
 
 <!--   Top langs -->

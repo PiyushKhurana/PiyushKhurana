@@ -38,3 +38,7 @@ Here are some ideas to get you started:
 <!--   Top langs -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushKhurana&layout=compact&exclude_repo=Polls-WebApp" />
+
+<!-- Visitor label   -->
+
+![](https://visitor-badge.glitch.me/badge?page_id=PiyushKhurana.PiyushKhurana)

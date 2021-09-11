@@ -7,7 +7,7 @@
 **PiyushKhurana/PiyushKhurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-<img align="" alt="GIF" src="gifs/code.gif" width="500" height="300" />
+<!-- <img align="" alt="GIF" src="gifs/code.gif" width="500" height="300" /> -->
 
 <!--Here are some ideas to get you started:
 
@@ -22,6 +22,8 @@
 -->
 
  <img src="https://github-readme-stats.vercel.app/api?username=PiyushKhurana&show_icons=true&count_private=true&theme=tokyonight&hide=stars&include_all_commits=true"/>
+ 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushKhurana&theme=tokyonight" alt="mystreak"/>
 
 ### Languages and Tools
 <p align="left">
@@ -45,10 +47,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushKhurana&layout=compact&exclude_repo=Polls-WebApp&theme=tokyonight" />
 
+
+
+<!-- ![Piyush github activity graph](https://activity-graph.herokuapp.com/graph?username=PiyushKhurana&theme=react-dark) -->
+
 <!-- Visitor label   -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=PiyushKhurana.PiyushKhurana)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushKhurana&theme=tokyonight" alt="mystreak"/>
-
-![Piyush github activity graph](https://activity-graph.herokuapp.com/graph?username=PiyushKhurana&theme=react-dark)

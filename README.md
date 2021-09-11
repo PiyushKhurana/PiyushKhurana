@@ -7,7 +7,7 @@
 **PiyushKhurana/PiyushKhurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-<img align="" alt="GIF" src="gifs/code.gif" width="" height="" />
+<img align="" alt="GIF" src="gifs/code.gif" width="500" height="300" />
 
 <!--Here are some ideas to get you started:
 

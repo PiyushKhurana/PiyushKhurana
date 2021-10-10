@@ -45,7 +45,7 @@
 
 <!--   Top langs -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushKhurana&layout=compact&exclude_repo=Polls-WebApp&theme=tokyonight" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushKhurana&layout=compact&exclude_repo=Polls-WebApp&theme=tokyonight" /> -->
 
 
 

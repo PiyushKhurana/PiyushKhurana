@@ -25,7 +25,7 @@
  
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushKhurana&theme=tokyonight" alt="mystreak"/>
 
-### Languages and Tools
+<!-- ### Languages and Tools
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" alt="Linux" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/powershell.svg" alt="Shell" height="30" width="40" />
@@ -41,7 +41,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="C" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="Node" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="MongoDB" height="30" width="40" />
-</p>
+</p> -->
 
 <!--   Top langs -->
 

@@ -21,9 +21,9 @@
 - ⚡ Fun fact: ...
 -->
 
- <img src="https://github-readme-stats.vercel.app/api?username=PiyushKhurana&show_icons=true&count_private=true&theme=tokyonight&hide=stars&include_all_commits=true"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=PiyushKhurana&show_icons=true&count_private=true&theme=tokyonight&hide=stars&include_all_commits=true"/> -->
  
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushKhurana&theme=tokyonight" alt="mystreak"/>
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushKhurana&theme=tokyonight" alt="mystreak"/> -->
 
 <!-- ### Languages and Tools
 <p align="left">
@@ -53,4 +53,4 @@
 
 <!-- Visitor label   -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=PiyushKhurana.PiyushKhurana)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=PiyushKhurana.PiyushKhurana) -->
